@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "robot.ts"
+        "Robot.ts"
     ],
     "testFiles": [
         "tests.ts"
