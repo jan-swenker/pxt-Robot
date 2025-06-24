@@ -9,7 +9,7 @@ enum Richting {
   }
 namespace Robot{
   //% blockId=Rechter_arm weight=100
-  //% block="Rechter arm %richting"
+  //% block="Rechter arm %Richting"
   export function Rechter_arm(Richting): void {
     pins.servoWritePin(AnalogPin.P1, 0)
   }
