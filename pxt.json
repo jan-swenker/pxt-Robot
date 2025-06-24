@@ -1,0 +1,17 @@
+{
+    "name": "Robot",
+    "version": "0.0.1",
+    "description": "Extensie voor DJON Robot",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "robot.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
