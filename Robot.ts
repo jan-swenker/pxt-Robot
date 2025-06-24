@@ -3,8 +3,8 @@
 */
 //% color=#2b569b weight=10 icon="\uf544"
 enum Richting {
-    Omhoog = 1
-    Vooruit = 2
+    Omhoog = 1,
+    Vooruit = 2,
     Omlaag = 3
   }
 namespace Robot{
